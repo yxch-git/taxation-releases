@@ -1,17 +1,14 @@
-{"version":"2.0.0",
+hello
 
+{
+"version":"2.0.0",
 "downloadUrl":"https://github.com/yxch-git/taxation-releases/blob/main/test.apk",
-
 "releaseNotes":"重要安全更新：
-
 • 修复了关键安全漏洞
-
 • 优化了应用性能
-
 • 新增了多个功能
-
 • 提升了用户体验",
-
 "isForceUpdate":true
-
 }
+
+end
