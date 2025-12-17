@@ -1,8 +1,8 @@
 "downloadUrl":"https://github.com/yxch-git/taxation-releases/blob/main/test.apk",
 hello
 {
-"version":"1.0.0",
-"downloadUrl":"https://null",
+"version":"1.0.1",
+"downloadUrl":"https://github.com/yxch-git/taxation-releases/blob/main/1_0_1apk_path.txt",
 "releaseNotes":"重要安全更新：• 修复了关键安全漏洞• 优化了应用性能• 新增了多个功能• 提升了用户体验",
 "isForceUpdate":true
 }
